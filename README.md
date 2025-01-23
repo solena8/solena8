@@ -15,6 +15,24 @@ Aspiring developer and current student at Ada Tech School, where I am diving dee
 
 #  GitHub Repositories Organization
 
+## Projects
+
+## Team Projects
+* [Not Safe For Raccoons](https://github.com/solena8/projet-microblogging-nsfr) -  Blog platform
+* [Echo Team](https://github.com/solena8/projet-collectif-reseau-social-php-echoteam) - PHP Social Network
+* [Browser Extension](https://github.com/solena8/projet-extension-navigateur-team) - Trigger words
+* [SoJuDri](https://github.com/solena8/SoJuDri_GINI_dataviz_project) - Data Visualization Project 
+* [Naténa](https://github.com/solena8/projet-mobile-natena) - Mobile App 
+* [Bikerage](https://github.com/solena8/bikerage_Pico8_game) - Pico 8 game
+* [Furniture Online Shop](https://github.com/solena8/projet-plateforme-meubles-drymss) 
+
+## Solo Projects
+
+* [Set Game Solver](https://github.com/solena8/set_game) 
+* [Personnal Art Website](https://github.com/solena8/solena_toussaint_website) - In Progress
+* [Word Game](https://github.com/solena8/word_game) - In Progress
+
+
 ## Programming Exercises
 
 ### Games
@@ -40,11 +58,6 @@ Aspiring developer and current student at Ada Tech School, where I am diving dee
 * [Pokedex](https://github.com/solena8/pokedex)
 * [Languages Performance Comparison](https://github.com/solena8/compare_languages_performances)
 
-
-## Team Projects
-* [Echo Team](https://github.com/solena8/projet-collectif-reseau-social-php-echoteam) - PHP Social Network
-* [Browser Extension](https://github.com/solena8/projet-extension-navigateur-team)
-* [SoJuDri GINI](https://github.com/solena8/SoJuDri_GINI_dataviz_project) - Data Visualization Project
 
 
 ## Connect with me
