@@ -17,7 +17,7 @@ Aspiring developer and current student at Ada Tech School, where I am diving dee
 
 ## Projects
 
-## Team Projects
+### Team Projects
 * [Not Safe For Raccoons](https://github.com/solena8/projet-microblogging-nsfr) -  Blog platform
 * [Echo Team](https://github.com/solena8/projet-collectif-reseau-social-php-echoteam) - PHP Social Network
 * [Browser Extension](https://github.com/solena8/projet-extension-navigateur-team) - Trigger words
@@ -26,7 +26,7 @@ Aspiring developer and current student at Ada Tech School, where I am diving dee
 * [Bikerage](https://github.com/solena8/bikerage_Pico8_game) - Pico 8 game
 * [Furniture Online Shop](https://github.com/solena8/projet-plateforme-meubles-drymss) 
 
-## Solo Projects
+### Solo Projects
 
 * [Set Game Solver](https://github.com/solena8/set_game) 
 * [Personnal Art Website](https://github.com/solena8/solena_toussaint_website) - In Progress
