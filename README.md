@@ -17,7 +17,45 @@
 - 💬 Ask me about **complex geometrical origamis**
 
 - ⚡ Fun fact **I write, draw and publish comic books!**
-- 
+
+  
+
+# GitHub Repositories Organization
+
+## Programming Exercises
+
+**Games**
+- [Awalé - Traditional African Board Game](https://github.com/solena8/awale)
+- [Matches Game](https://github.com/solena8/matches_game)
+- [Guess The Number Game](https://github.com/solena8/guess_the_number_game)
+- [Mastermind - Logic Game](https://github.com/solena8/mastermind)
+- [Motus - Word Game](https://github.com/solena8/motus)
+- [Minesweeper - Classic Game](https://github.com/solena8/demineur)
+
+**Algorithms and Data Structures**
+- [Text Compression Algorithm](https://github.com/solena8/text_compression)
+- [Recursive Folder Sorting](https://github.com/solena8/recursive_folder_sorting)
+- [Sorting Exercises](https://github.com/solena8/sorting_exercize)
+- [Conway Suite - Mathematical Sequence](https://github.com/solena8/conway_suite)
+- [Pimp My Ride - Mini Game](https://github.com/solena8/pimp_my_ride)
+- [Christmas Tree Display](https://github.com/solena8/sapinDisplay)
+  
+
+**Tools and Utilities**
+- [Morse Code Translator](https://github.com/solena8/morse_code_translator)
+- [Date Palindrome Checker](https://github.com/solena8/datePalindromeChecker)
+- [Graphical Calculator](https://github.com/solena8/calculatrice_graphique)
+- [Pokedex - Pokemon Database](https://github.com/solena8/pokedex)
+- [Programming Languages Performance Comparison](https://github.com/solena8/compare_languages_performances)
+
+
+## Collaborative Projects
+
+**Web Projects**
+- [Echo Team - PHP Social Network](https://github.com/solena8/projet-collectif-reseau-social-php-echoteam)
+- [Browser Extension](https://github.com/solena8/projet-extension-navigateur-team)
+- [SoJuDri GINI - Data Visualization Project](https://github.com/solena8/SoJuDri_GINI_dataviz_project)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
