@@ -4,8 +4,6 @@
 * ✉️  You can contact me at [solena_ananda@hotmail.com](mailto:solena_ananda@hotmail.com)
 
 ## Back end Developer in the making
-  
--------------------------------- 
 
 Aspiring developer and current student at Ada Tech School, where I am diving deep into the world of coding and software development. I've always had a passion for solving problems and puzzles, and I bring this same enthusiasm to my programming journey. In addition to my technical pursuits, I'm an avid origami artist and enjoy exploring the intersections of art and technology. Join me on my journey as I transform my creativity and problem-solving skills into innovative solutions.
 
@@ -14,7 +12,10 @@ Aspiring developer and current student at Ada Tech School, where I am diving dee
 * 💬 Ask me about **complex geometrical origamis**
 * ⚡ Fun fact **I write, draw and publish comic books!**
 
-## My Projects
+
+#  GitHub Repositories Organization
+
+## Programming Exercises
 
 ### Games
 * [Awalé](https://github.com/solena8/awale) - Traditional African Board Game
@@ -39,15 +40,18 @@ Aspiring developer and current student at Ada Tech School, where I am diving dee
 * [Pokedex](https://github.com/solena8/pokedex)
 * [Languages Performance Comparison](https://github.com/solena8/compare_languages_performances)
 
-### Team Projects
+
+## Team Projects
 * [Echo Team](https://github.com/solena8/projet-collectif-reseau-social-php-echoteam) - PHP Social Network
 * [Browser Extension](https://github.com/solena8/projet-extension-navigateur-team)
 * [SoJuDri GINI](https://github.com/solena8/SoJuDri_GINI_dataviz_project) - Data Visualization Project
+
 
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/solenatoussaint)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/solena.wandering.art)
+
 
 ## Languages and Tools
 
