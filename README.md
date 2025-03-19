@@ -15,60 +15,60 @@
 
 ## Par Type de Projet
 
-### Data Science et Visualisation
-- [SoJuDri - Datavisualisation](https://github.com/solena8/SoJuDri) - Visualisation interactive de l'indice GINI mondial
-- [Carte des voyages - Front](https://github.com/solena8/CarteVoyagesFront) - Visualisation des lieux de voyages sur carte
-- [Carte des voyages - Back](https://github.com/solena8/CarteVoyagesBack) - API pour la carte des voyages
-- [Analyse Ventes PME - cas pratique](https://github.com/solena8/AnalyseVentesPME) - Architecture micro-services pour analyse de données
-
 ### Développement Web
-- [SoJuDri - Datavisualisation](https://github.com/solena8/SoJuDri) - Visualisation interactive de l'indice GINI mondial
-- [EchoTeam - Réseau social](https://github.com/solena8/EchoTeam) - Réseau social avec système de posts et hashtags
-- [Plateforme de Vente de Meubles](https://github.com/solena8/PlatformeVenteMeubles) - Site e-commerce de meubles
-- [Not Safe For Raccoons - Plateforme de blog](https://github.com/solena8/NotSafeForRaccoons) - Plateforme de blog avec tests
-- [Set Game Solveur](https://github.com/solena8/SetGameSolveur) - Outil pour identifier les ensembles de cartes possibles
+- [SoJuDri - Datavisualisation](https://github.com/solena8/SoJuDri_GINI_dataviz_project) - Visualisation interactive de l'indice GINI mondial
+- [EchoTeam - Réseau social](https://github.com/solena8/projet-collectif-reseau-social-php-echoteam) - Réseau social avec système de posts et hashtags
+- [Plateforme de Vente de Meubles](https://github.com/solena8/plateforme_vente_meubles_drymss.git) - Site e-commerce de meubles
+- [Not Safe For Raccoons - Plateforme de blog](https://github.com/solena8/not_safe_for_raccoons_miccrobloging) - Plateforme de blog avec tests
+- [Set Game Solveur](https://github.com) - Outil pour identifier les ensembles de cartes possibles
 
 ### Développement Mobile
-- [Naténa - Projet mobile](https://github.com/solena8/Natena) - Application mobile listant les spots de surf
+- [Naténa - Projet mobile](https://github.com/solena8/Natena_projet_mobile) - Application mobile listant les spots de surf
 
 ### Extensions/Outils
-- [Extension Navigateur](https://github.com/solena8/ExtensionNavigateur) - Extension pour gérer des favoris par catégorie
+- [Extension Navigateur](https://github.com/solena8/projet-collectif-reseau-social-php-echoteam) - Extension pour gérer des favoris par catégorie
 
 ### Jeux
-- [Bikerage - Jeu vidéo Pico-8](https://github.com/solena8/Bikerage) - Jeu 8-bit d'évitement d'obstacles et de recyclage
+- [Bikerage - Jeu vidéo Pico-8](https://github.com/solena8/bikerage_Pico8_game) - Jeu 8-bit d'évitement d'obstacles et de recyclage
 
+### Data Science et Visualisation
+- [SoJuDri - Datavisualisation](https://github.com/solena8/SoJuDri_GINI_dataviz_project) - Visualisation interactive de l'indice GINI mondial
+- [Carte des voyages - Front](https://github.com/solena8/carte_des_voyages_client) - Visualisation des lieux de voyages sur carte
+- [Carte des voyages - Back](https://github.com/solena8/carte_des_voyages_serveur) - API pour la carte des voyages
+- [Analyse Ventes PME - cas pratique](https://github.com) - Architecture micro-services pour analyse de données
 
 ## Par Langage de Programmation
 
 ### Python
-- [Naténa - Projet mobile](https://github.com/solena8/Natena) (Back-end) - FastAPI, SQL Alchemy
-- [Not Safe For Raccoons - Plateforme de blog](https://github.com/solena8/NotSafeForRaccoons) - Django, Playwright, Pytest
-- [Carte des voyages - Back](https://github.com/solena8/CarteVoyagesBack) - FastAPI, SQL Alchemy
-- [Set Game Solveur](https://github.com/solena8/SetGameSolveur) - Python avec front HTML/CSS/JS
-- [Analyse Ventes PME - cas pratique](https://github.com/solena8/AnalyseVentesPME) - Python, SQL, Docker
+- [Naténa - Projet mobile](https://github.com/solena8/Natena_projet_mobile) (Back-end) - FastAPI, SQL Alchemy
+- [Not Safe For Raccoons - Plateforme de blog](https://github.com/solena8/not_safe_for_raccoons_miccrobloging) - Django, Playwright, Pytest
+- [Carte des voyages - Back](https://github.com/solena8/carte_des_voyages_serveur) - FastAPI, SQL Alchemy
+- [Set Game Solveur](https://github.com) - Python avec front HTML/CSS/JS
+- [Analyse Ventes PME - cas pratique](https://github.com) - Python, SQL, Docker
 
 ### JavaScript/TypeScript
-- [SoJuDri - Datavisualisation](https://github.com/solena8/SoJuDri) - JavaScript, amCharts
-- [Extension Navigateur](https://github.com/solena8/ExtensionNavigateur) - TypeScript, HTML, CSS, JavaScript
-- [Plateforme de Vente de Meubles](https://github.com/solena8/PlatformeVenteMeubles) (Front-end) - Angular, TypeScript
-- [Carte des voyages - Front](https://github.com/solena8/CarteVoyagesFront) - JavaScript, Leaflet
-- [Set Game Solveur](https://github.com/solena8/SetGameSolveur) - JavaScript pour l'interface utilisateur
+- [SoJuDri - Datavisualisation](https://github.com/solena8/SoJuDri_GINI_dataviz_project) - JavaScript, amCharts
+- [Extension Navigateur](https://github.com/solena8/projet-collectif-reseau-social-php-echoteam) - TypeScript, HTML, CSS, JavaScript
+- [Plateforme de Vente de Meubles](https://github.com/solena8/plateforme_vente_meubles_drymss.git) (Front-end) - Angular, TypeScript
+- [Carte des voyages - Front](https://github.com/solena8/carte_des_voyages_client) - JavaScript, Leaflet
+- [Set Game Solveur](https://github.com) - JavaScript pour l'interface utilisateur
 
 ### PHP
-- [EchoTeam - Réseau social](https://github.com/solena8/EchoTeam) - PHP, MySQL
-- [Plateforme de Vente de Meubles](https://github.com/solena8/PlatformeVenteMeubles) (Back-end) - PHP, Symfony
+- [EchoTeam - Réseau social](https://github.com/solena8/projet-collectif-reseau-social-php-echoteam) - PHP, MySQL
+- [Plateforme de Vente de Meubles](https://github.com/solena8/plateforme_vente_meubles_drymss.git) (Back-end) - PHP, Symfony
 
 ### Autres
-- [Bikerage - Jeu vidéo Pico-8](https://github.com/solena8/Bikerage) - Lua, Pico-8
-- [Naténa - Projet mobile](https://github.com/solena8/Natena) (Front-end) - Kotlin
+- [Bikerage - Jeu vidéo Pico-8](https://github.com/solena8/bikerage_Pico8_game) - Lua, Pico-8
+- [Naténa - Projet mobile](https://github.com/solena8/Natena_projet_mobile) (Front-end) - Kotlin
 
-## Connect with me
+
+# Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/solenatoussaint)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/solena.wandering.art)
 
 
-## Languages and Tools
+# Languages and Tools
 
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
