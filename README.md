@@ -11,7 +11,7 @@
 * ⚡ Fun fact **I write, draw and publish comic books!**
 
 
-# Classification des Dépôts GitHub de solena8
+# Classification des Dépôts GitHub
 
 ## Par Type de Projet
 
