@@ -4,7 +4,7 @@
 * ✉️  You can contact me at [solena_ananda@hotmail.com](mailto:solena_ananda@hotmail.com)
 
 
-## Back end Developer, Data Engineer in the making
+## Back end Developer, always learning new things!
 
 * 🔭 I'm currently working on **an App to offer goodies to employees**
 * 🌱 I'm currently attempting to master **Java, Angular, SQL** I also love **Python** !
