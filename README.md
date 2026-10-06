@@ -4,9 +4,9 @@
 * ✉️  You can contact me at [solena_ananda@hotmail.com](mailto:solena_ananda@hotmail.com)
 
 
-## Back end Developer, always learning new things!
+## Fullstack Developer, always learning new things!
 
-* 🔭 I'm currently working on **an App to offer goodies to employees**
-* 🌱 I'm currently attempting to master **Java, Angular, SQL** I also love **Python** !
+* 🔭 I'm currently working on **an App to register places where I've been**
+* 🌱 I'm currently attempting to master **Flutter and Dart, Kotlin and Spring** I also love **Python** !
 * 💬 Ask me about **complex geometrical origamis**
 * ⚡ Fun fact **I write, draw and publish comic books!**
